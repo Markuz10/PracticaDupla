@@ -1,1 +1,1 @@
-# PracticaDupla
+# Practica
